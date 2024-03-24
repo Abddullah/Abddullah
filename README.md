@@ -1,4 +1,3 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/morinaga-9bd8a.appspot.com/o/design.jpg?alt=media&token=babe80d4-465c-411a-a78d-92d774f235bd)
 
 
@@ -9,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abddullah&label=Profile%20views&color=0e75b6&style=flat" alt="abddullah" /> </p>
+<p align="left" style='marginRight:10px'> <img src="https://komarev.com/ghpvc/?username=abddullah&label=Profile%20views&color=0e75b6&style=flat" alt="abddullah" /> </p>
 
 - 🔭 I’m currently working on **developing a comprehensive web and mobile application that integrates both front-end and back-end technologies. This project aims to streamline user experience by implementing responsive design, efficient data handling, and interactive features. As a full-stack developer, I'm responsible for designing the user interface, developing the server-side logic, and ensuring seamless communication between the database and the user interface.**
 
