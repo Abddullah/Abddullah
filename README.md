@@ -1,10 +1,11 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/morinaga-9bd8a.appspot.com/o/design.jpg?alt=media&token=babe80d4-465c-411a-a78d-92d774f235bd)
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
 <h3 align="center">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://ibb.co/F8tQP2H">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
