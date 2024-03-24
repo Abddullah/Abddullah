@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
 <h3 align="left">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
 
-<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" style="margin-left: 30px;"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
