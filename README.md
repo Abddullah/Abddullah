@@ -5,6 +5,7 @@
 <h3 align="center">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1wdU6zw7EEQhrjFrk-Pl12j1ygdVVsDS_/view?usp=sharing">
 
 
 
