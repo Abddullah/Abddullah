@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
 <h3 align="center">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" style='marginLeft:"10px"' alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-<p align="left" style='paddingRight:"10px"'> <img src="https://komarev.com/ghpvc/?username=abddullah&label=Profile%20views&color=0e75b6&style=flat" alt="abddullah" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=abddullah&label=Profile%20views&color=0e75b6&style=flat" alt="abddullah" /> </p>
 
 - 🔭 I’m currently working on **developing a comprehensive web and mobile application that integrates both front-end and back-end technologies. This project aims to streamline user experience by implementing responsive design, efficient data handling, and interactive features. As a full-stack developer, I'm responsible for designing the user interface, developing the server-side logic, and ensuring seamless communication between the database and the user interface.**
 
