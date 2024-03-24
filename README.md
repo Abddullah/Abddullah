@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
-<h3 align="center">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
+<h3 align="left">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
 
-<img align="right" style='marginLeft:"10px"' alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
@@ -26,8 +26,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nEGye8Un2tJ1pCDz76MHWoUsa6o8YaEW/view?usp=sharing](https://drive.google.com/file/d/1nEGye8Un2tJ1pCDz76MHWoUsa6o8YaEW/view?usp=sharing)
 
-- ⚡ Fun fact **A fun fact about me is that I thoroughly enjoy playing PUBG.
-**
+- ⚡ Fun fact **A fun fact about me is that I thoroughly enjoy playing PUBG.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
