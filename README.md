@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **developing a comprehensive web and mobile application that integrates both front-end and back-end technologies. This project aims to streamline user experience by implementing responsive design, efficient data handling, and interactive features. As a full-stack developer, I'm responsible for designing the user interface, developing the server-side logic, and ensuring seamless communication between the database and the user interface.**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently working on **React Native**
 
 - 👯 I’m looking to collaborate on **Cloud native project**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01124e8bcb0ba30114](https://www.upwork.com/freelancers/~01124e8bcb0ba30114)
 
